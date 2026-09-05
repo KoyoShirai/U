@@ -1,7 +1,7 @@
 0000809 lur     ここからA PN 私
 0000795 zon     PN あなた
 0000075 ze      
-0000212 tat     Vx xはいる/ある
+0000212 tat     Vx xはいる ある
 0000444 fof     Vxyz xはyをzと言う 扱う
 0000569 jas     Vx xは成る
 0000377 cek     N 物
