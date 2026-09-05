@@ -1,46 +1,46 @@
 0000809 lur     ここからA PN 私
 0000795 zon     PN あなた
 0000075 ze      A(u) uは自動詞のとき主語の、他動詞のとき目的語の補語 uと uに
-0000212 tat     Vx xはいる ある
-0000444 fof     Vxyz xはyをzと言う 扱う
-0000569 jas     Vx xは成る
+0000212 tat     Vi xはいる ある
+0000444 fof     Vt xはyを言う 扱う
+0000569 jas     Vi xは成る
 0000377 cek     N 物
 0000369 jak     N 年
 0000000 u       N 無 ウ語
-0000148 rop     Vx xは来る
+0000148 rop     Vi xは来る
 0000072 de      
-0000827 ner     Vxyz xはyをzと思う
-0000512 tas     Vxyz xはyをzと見る 認識する
-0000999 jol     Vx xは行く
+0000827 ner     Vt xはyを思う
+0000512 tas     Vt xはyを見る 認識する
+0000999 jol     Vi xは行く
 0000210 at      
-0000566 xas     Vx xは可能だ
-0000101 pup     Vx xはこれだ
-0000521 pes     Vx xは良い
+0000566 xas     Vi xは可能だ
+0000101 pup     Vi xはこれだ
+0000521 pes     Vi xは良い
 0000977 cel     A(u) 理由 uなので uゆえ
 0000694 vom     N 時
 0000437 nif     N 人
 0000396 xok     N 月
 0000607 num     PA そう
 0000950 hul     A だけ
-0000419 laf     Vx xは複数だ x達
+0000419 laf     Vi xは複数だ x達
 0000208 rut     N 分
 0000818 rar     N 中
 0000394 vok     SCT 選択 SまたはT
-0000941 pol     Vx xは着く
+0000941 pol     Vi xは着く
 0000586 xis     N 所
-0000375 zek     Vxyz xはyをzと考える
-0000448 rof     Vxy xはyを仕舞う
+0000375 zek     Vt xはyを考える
+0000448 rof     Vt xはyを仕舞う
 0000790 hon     
 0000165 zap     N 場合
 0000366 xak     N 今
-0000231 pit     Vxy xはyを持つ
+0000231 pit     Vt xはyを持つ
 0000070 he      A(u) 時間 uに
-0000412 taf     Vxyz xはyをzと分かる
+0000412 taf     Vt xはyを分かる
 0000915 sal     N 日
-0000725 sen     Vx xは出る Vxy xはyを出す
+0000725 sen     Vi xは出る Vt xはyを出す
 0000424 fef     N 前 先
-0000637 nim     Vxy xはyを行う
-0000086 xi      Vxy xはyを取る 得る
+0000637 nim     Vt xはyを行う
+0000086 xi      Vt xはyを取る 得る
 0000250 hut     N 性 性別 性質
 0000196 xop     N 訳 理由
 0000043 ko      A(u) 動作の始点 uから uより
@@ -48,27 +48,27 @@
 0000770 hen     N 必要
 0000949 lol     uCv 順序対 (u, v)
 0000016 ma      A(u) 場所 uで
-0000484 vif     Vxy xはyを使う
+0000484 vif     Vt xはyを使う
 0000934 fil     A(u) 比較 uより
-0000275 zet     Vxyz xはyをzと聞く
-0000132 tip     Vxy xはyをくれる 与える あげる
-0000861 bar     Vxyz xはyをzと知る
+0000275 zet     Vi xは聞こえる Vt xはyを聞く
+0000132 tip     Vt xはyをくれる 与える あげる
+0000861 bar     Vt xはyを知る
 0000169 jap     (差別用語なので飛ばす)
 0000124 fep     N 後
 0000128 rep     N パーセント 百分の一
 0000953 gul      そして
 0000705 sun     A もう
-0000575 zes     Vxy xはyを置く
+0000575 zes     Vt xはyを置く
 0000440 of      
 0000339 lik     N 子供
 0000723 ken     N 家
-0000439 lif     Vx xは入る Vxy xはyを入れる
+0000439 lif     Vi xは入る Vt xはyを入れる
 0000779 jen     N 気
-0000595 zos     Vxy xはyを作る
+0000595 zos     Vt xはyを作る
 0000880 hir     N 関係
 0000985 zil     A(u) 比較 uと同じかuより u以上に
 0000740 on      N(S) 文章を名詞にする
-0000524 fes     Vx xは多い
+0000524 fes     Vi xは多い
 0000052 du      A(u) 手段 uで
 0000720 en      
 0000287 cit     N 方法
@@ -81,22 +81,22 @@
 0000325 sek     N 社会
 0000775 zen     N 話
 0000708 run     N 手
-0000176 xep     Vxy xはyを食べる
+0000176 xep     Vt xはyを食べる
 0000892 dor     N 目
-0000532 tis     Vx xは付く Vxy xはyを付ける
+0000532 tis     Vi xは付く Vt xはyを付ける
 0000599 jos     N 世界
 0000489 jif     PN 他 ほか
 0000272 det     N 点
-0000835 sir     Vxy xはyを受ける (治療を受ける)
+0000835 sir     Vt xはyを受ける (治療を受ける)
 0000491 bof     N 次
 0000238 rit     N 生活
 0000889 jir     N 法
-0000402 tuf     Vxy xはyと同じだ 等しい
-0000269 jat     Vxyz xはyをzと書く
-0000102 tup     Vx xは大きい
+0000402 tuf     Vi xは同じだ 等しい
+0000269 jat     Vt xはyを書く
+0000102 tup     Vi xは大きい
 0000557 cus     A(u) 動作の途中 uを (トンネルを通る)
-0000364 vak     Vx xは高い
-0000568 qas     Vx xは掛かる Vxy xはyを掛ける コートを掛ける 迷惑を掛ける
+0000364 vak     Vi xは高い
+0000568 qas     Vi xは掛かる 被さる Vt xはyを掛ける 被せる コートを掛ける 迷惑を掛ける
 0000164 vap     ここまでA 
 0004128 repo    ここからB N 男
 2754207 ntozet  N 研究
@@ -107,15 +107,15 @@
 0016795 zocap   N 図
 0072210 aten    N 言葉
 2827683 gixedit N 国
-0057313 kages   Vx xは関する 関係する
+0057313 kages   Vi xは関する 関係する
 0038985 zijik   N 県
 0002101 pupe    N 学校
 0065231 pidum   N 間
-0000045 so      Vx xは上がる Vxy xはyを上げる
+0000045 so      Vi xは上がる Vt xはyを上げる
 3787800 uqeqek  N 会社 企業
 0003396 xoki    N 仕事
 0074763 ganon   N 事業
-0084438 rifor   Vxy xはyを頂く (xはyに上方向に届く)
+0084438 rifor   Vi xはyを頂く (xはyに上方向に届く)
 0000215 sat     N 時代
 0017934 fijep   N 利用
 0007883 giqe    A 少し ちょっと
@@ -125,17 +125,17 @@
 0070076 xeun    N 未だ
 0023929 lelit   N 女
 0027195 zobet   A やはり やっぱり
-0067298 qodem   Vxyz xはyをzと教える
+0067298 qodem   Vt xはyを教える
 0097635 sixel   N 通り 道
 0088648 roxir   N 心
 3517181 bibebuk N 活動
-0055549 lozus   Vxy xはyと違う
-0011454 vufap   Vx xは始まる Vxy xはyを始める
+0055549 lozus   Vi xは違う
+0011454 vufap   Vi xは始まる Vt xはyを始める
 0069786 xicom   N 環境
 0072356 xuken   N 結果
 8347084 vihefir N 電話
-0054982 dilos   Vx xは変わる
-0023891 borit   Vx xは過ぎる Vxy xはyを過ごす
+0054982 dilos   Vi xは変わる
+0023891 borit   Vi xは過ぎる Vt xはyを過ごす
 0030375 zekuk   SCT 逆説 SしかしT けれど
 0076321 pegan   
 0000584 vis     A(u) 共同の相手 uと 
