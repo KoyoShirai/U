@@ -12,7 +12,7 @@ n 過去 Vた
 s 推量 Vよう
 
 
-V(ε|pa)(ε|du|duta|tu|ta)(ε|ka)(ε|fa)(ε|sa)(ε|((ε|n)(ran|jan)+)(ε|ra|ja)(ε|s|n|ns||xa|xas|xan)
+Verb(ε|pa)(ε|du|duta|tu|ta)(ε|ka)(ε|fa)(ε|sa)(ε|((ε|n)(ran|jan)+)(ε|ra|ja)(ε|s|n|ns||xa|xas|xan)Particles
 
 
 
