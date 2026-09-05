@@ -23,7 +23,7 @@
 0000607 num     PA そう
 0000950 hul     A だけ
 0000419 laf     Vx xは複数だ x達
-0000208 rut     
+0000208 rut     N 分
 0000818 rar     N 中
 0000394 vok     C または
 0000941 pol     Vx xは着く
@@ -38,7 +38,7 @@
 0000412 taf     Vxyz xはyをzと分かる
 0000915 sal     N 日
 0000725 sen     Vx xは出る Vxy xはyを出す
-0000424 fef     N 前
+0000424 fef     N 前 先
 0000637 nim     Vxy xはyを行う
 0000086 xi      Vxy xはyを取る 得る
 0000250 hut     N 性 性別 性質
@@ -61,17 +61,17 @@
 0000575 zes     Vxy xはyを置く
 0000440 of      
 0000339 lik     N 子供
-0000723 ken     
-0000439 lif     Vx xは入る
+0000723 ken     N 家
+0000439 lif     Vx xは入る Vxy xはyを入れる
 0000779 jen     N 気
 0000595 zos     Vxy xはyを作る
 0000880 hir     N 関係
-0000985 zil     
+0000985 zil     A(u) uと同じかuより u以上に
 0000740 on      
 0000524 fes     Vx xは多い
 0000052 du      
 0000720 en      
-0000287 cit     
+0000287 cit     N 方法
 0000842 tor     N 誰も 皆
 0000816 mar     N 度
 0000754 vun     A(u) uほど uくらい
@@ -81,7 +81,7 @@
 0000325 sek     N 社会
 0000775 zen     N 話
 0000708 run     N 手
-0000176 xep     N 事業
+0000176 xep     Vxy xはyを食べる
 0000892 dor     N 目
 0000532 tis     Vx xは付く Vxy xはyを付ける
 0000599 jos     N 世界
@@ -93,49 +93,49 @@
 0000889 jir     N 法
 0000402 tuf     Vxy xはyと同じだ 等しい
 0000269 jat     Vxyz xはyをzと書く
-0000102 tup     N 会社
+0000102 tup     Vx xは大きい
 0000557 cus     
 0000364 vak     Vx xは高い
-0000568 qas     Vxy xはyを掛ける コートを掛ける 迷惑を掛ける
+0000568 qas     Vx xは掛かる Vxy xはyを掛ける コートを掛ける 迷惑を掛ける
 0000164 vap     ここまでA 
-0004128 repo    ここからB
-2754207 ntozet  
-0075971 bejun   
-0000041 po      
-0072684 vimen   
-0022597 coset   
-0016795 zocap   
-0072210 aten    
-2827683 gixedit 
-0057313 kages   
-0038985 zijik   
-0002101 pupe    
-0065231 pidum   
-0000045 so      
-3787800 uqeqek  
-0003396 xoki    
-0074763 ganon   
-0084438 rifor   
-0000215 sat     
-0017934 fijep   
-0007883 giqe    
-0046893 goqaf   
-0000111 pap     
-0083495 zofir   
-0070076 xeun    
-0023929 lelit   
-0027195 zobet   
-0067298 qodem   
-0097635 sixel   
-0088648 roxir   
-3517181 bibebuk 
-0055549 lozus   
-0011454 vufap   
-0069786 xicom   
-0072356 xuken   
-8347084 vihefir 
-0054982 dilos   
-0023891 borit   
+0004128 repo    ここからB N 男
+2754207 ntozet  N 研究
+0075971 bejun   N 地域
+0000041 po      N 顔
+0072684 vimen   N 情報
+0022597 coset   N 意味
+0016795 zocap   N 図
+0072210 aten    N 言葉
+2827683 gixedit N 国
+0057313 kages   Vx xは関する 関係する
+0038985 zijik   N 県
+0002101 pupe    N 学校
+0065231 pidum   N 間
+0000045 so      Vx xは上がる Vxy xはyを上げる
+3787800 uqeqek  N 会社 企業
+0003396 xoki    N 仕事
+0074763 ganon   N 事業
+0084438 rifor   Vxy xはyを頂く (xはyに上方向に届く)
+0000215 sat     N 時代
+0017934 fijep   N 利用
+0007883 giqe    A 少し ちょっと
+0046893 goqaf   N 本当 事実
+0000111 pap     N 声
+0083495 zofir   N 経済
+0070076 xeun    N 未だ
+0023929 lelit   N 女
+0027195 zobet   A やはり やっぱり
+0067298 qodem   Vxyz xはyをzと教える
+0097635 sixel   N 通り 道
+0088648 roxir   N 心
+3517181 bibebuk N 活動
+0055549 lozus   Vxy xはyと違う
+0011454 vufap   Vx xは始まる Vxy xはyを始める
+0069786 xicom   N 環境
+0072356 xuken   N 結果
+8347084 vihefir N 電話
+0054982 dilos   Vx xは変わる
+0023891 borit   Vx xは過ぎる Vxy xはyを過ごす
 0030375 zekuk   
 0076321 pegan   
 0000584 vis     
@@ -154,7 +154,7 @@
 0039671 bexok   
 0095481 bivul   
 0022032 tiet    
-4778487 civicef 
+4778487 civicef N 調査 アンケート
 8971976 xelacor 
 2232951 buleket 
 0054310 akos    
