@@ -1,3 +1,103 @@
+0000809 lur     ここからA PN 私
+0000795 zon     PN あなた
+0000075 ze      
+0000212 tat     Vx xはいる/ある
+0000444 fof     Vxyz xはyをzと言う 扱う
+0000569 jas     Vx xは成る
+0000377 cek     N 物
+0000369 jak     N 年
+0000000 u       V(u)x xはuのだ
+0000148 rop     Vx xは来る
+0000072 de      
+0000827 ner     Vxyz xはyをzと思う
+0000512 tas     Vxyz xはyをzと見る 認識する
+0000999 jol     Vx xは行く
+0000210 at      A(u) uに uへ向かって
+0000566 xas     Vx xは可能だ
+0000101 pup     Vx xはこれだ
+0000521 pes     Vx xは良い
+0000977 cel     A(u) uという理由で uなので
+0000694 vom     N 時
+0000437 nif     N 人
+0000396 xok     N 月
+0000607 num     PA そう
+0000950 hul     A だけ
+0000419 laf     Vx xは複数だ x達
+0000208 rut     
+0000818 rar     N 中
+0000394 vok     C または
+0000941 pol     Vx xは着く
+0000586 xis     N 所
+0000375 zek     Vxyz xはyをzと考える
+0000448 rof     Vxy xはyを仕舞う
+0000790 hon     C しかし けれど
+0000165 zap     N 場合
+0000366 xak     N 今
+0000231 pit     Vxy xはyを持つ
+0000070 he      
+0000412 taf     Vxyz xはyをzと分かる
+0000915 sal     N 日
+0000725 sen     Vx xは出る Vxy xはyを出す
+0000424 fef     N 前
+0000637 nim     Vxy xはyを行う
+0000086 xi      Vxy xはyを取る 得る
+0000250 hut     N 性 性別 性質
+0000196 xop     N 訳 理由
+0000043 ko      
+0000303 kuk     N 問題
+0000770 hen     N 必要
+0000949 lol     A(u) uに対して
+0000016 ma      
+0000484 vif     Vxy xはyを使う
+0000934 fil     A(u) uより
+0000275 zet     Vxyz xはyをzと聞く
+0000132 tip     Vxy xはyをくれる 与える あげる
+0000861 bar     Vxyz xはyをzと知る
+0000169 jap     (差別用語なので飛ばす)
+0000124 fep     N 後
+0000128 rep     N パーセント 百分の一
+0000953 gul      そして
+0000705 sun     A もう
+0000575 zes     Vxy xはyを置く
+0000440 of      
+0000339 lik     N 子供
+0000723 ken     
+0000439 lif     Vx xは入る
+0000779 jen     N 気
+0000595 zos     Vxy xはyを作る
+0000880 hir     N 関係
+0000985 zil     
+0000740 on      
+0000524 fes     Vx xは多い
+0000052 du      
+0000720 en      
+0000287 cit     PVx xはどんなだ どの
+0000842 tor     N 誰も 皆
+0000816 mar     N 度
+0000754 vun     A(u) uほど uくらい
+0000543 kos     N 上
+0000578 qes     N 市
+0000318 rak     C と 及び
+0000325 sek     N 社会
+0000775 zen     N 話
+0000708 run     N 手
+0000176 xep     N 事業
+0000892 dor     N 目
+0000532 tis     Vx xは付く Vxy xはyを付ける
+0000599 jos     N 世界
+0000489 jif     PN 他 ほか
+0000272 det     N 点
+0000835 sir     Vxy xはyを受ける (治療を受ける)
+0000491 bof     N 次
+0000238 rit     N 生活
+0000889 jir     N 法
+0000402 tuf     Vxy xはyと同じだ 等しい
+0000269 jat     Vxyz xはyをzと書く
+0000102 tup     N 会社
+0000557 cus     
+0000364 vak     Vx xは高い
+0000568 qas     Vxy xはyを掛ける コートを掛ける 迷惑を掛ける
+0000164 vap     ここまでA 
 0004128 repo    ここからB
 2754207 ntozet  
 0075971 bejun   
@@ -189,7 +289,7 @@
 0000201 put     
 0048834 fiqif   
 0073698 qomin   
-0000602 tum     
+0000602 tum     PA どうにも
 0010095 zoup    
 0039270 hedok   
 0000076 xe      
@@ -294,7 +394,7 @@
 0015444 fovup   
 0047969 jajef   
 0000558 qus     
-0000071 be      
+0000071 be      PN あれ
 0049288 qidof   
 0001492 dofa    
 0000403 kuf     
@@ -457,7 +557,7 @@
 0052436 mifes   
 0056926 mejas   
 7757417 navezen 
-0000657 cum     
+0000657 cum     どう
 0062939 lilem   
 0088812 taqir   
 0040546 mosf    
@@ -947,7 +1047,7 @@
 0052902 tles    
 0587139 libequ  
 0060193 gopum   
-0000027 ne      
+0000027 ne      PN それ
 0057126 mebes   
 0000258 qut     
 0080306 mukur   
@@ -1098,7 +1198,7 @@
 0026611 paxat   
 7475055 zuhunon 
 0092719 lanel   
-0000230 it      
+0000230 it      PVx xはどれかだ どれかの
 0047902 tujef   
 0080285 zitur   
 0000925 sel     
@@ -1305,7 +1405,7 @@
 0018060 hahip   
 0083225 setir   
 8979609 luxocor 
-0000022 te      
+0000022 te      PN どれも
 0058055 zuhis   
 0000476 xef     
 0097684 vixel   
@@ -1612,7 +1712,7 @@
 0098383 gigil   
 0041840 oraf    
 0095766 xacul   
-0000893 gor     
+0000893 gor     PN こいつ この人
 0015797 cocup   
 0000747 non     
 5772487 cifeces 
@@ -1747,7 +1847,7 @@
 0015747 nocup   
 0000700 un      
 0046546 mozaf   
-0000840 or      
+0000840 or      PN 誰か
 0000228 ret     
 0054394 vokos   
 5517215 sadebus 
@@ -1842,7 +1942,7 @@
 0078248 rodin   
 0049136 mibof   
 0062858 qurem   
-0000653 gum     
+0000653 gum     PA こう
 0049532 tizof   
 0005570 hezu    
 0000333 kik     
@@ -2237,7 +2337,7 @@
 0000629 lem     
 0048582 dizif   
 0034095 zook    
-0000600 um      
+0000600 um      PA どうにか
 0000642 tom     
 0059283 gidos   
 0013181 bipip   
@@ -2262,7 +2362,7 @@
 0036168 qabak   
 0098889 jiqil   
 0077346 mogen   
-0000077 ce      
+0000077 ce      PN どれ
 0063778 qenim   
 0005539 lizu    
 0050968 qals    
@@ -2634,7 +2734,7 @@
 0000962 dal     
 0012837 nirep   
 0042387 cikef   
-0000283 git     
+0000283 git     PVx xはこんなだ この
 0003381 biki    
 0035205 sduk    
 0094999 jolol   
@@ -2647,7 +2747,7 @@
 0026129 lebat   
 0041386 xikaf   
 3380344 fokrik  
-0000020 e       
+0000020 e       PN どれか
 0000768 qan     
 3264775 zenomek 
 0084602 tumor   
@@ -3050,7 +3150,7 @@
 0082411 pafer   
 9423980 hilitol 
 0782819 lareqe  
-0000651 bum     
+0000651 bum     PA ああ あのように
 4780664 vamqef  
 0043434 fifif   
 8052760 hanesur 
@@ -3159,7 +3259,7 @@
 0039595 zozok   
 0000293 got     
 0033343 kokik   
-0000897 cor     
+0000897 cor     PN 誰 どいつ どの人
 9533794 vonigul 
 0007542 toze    
 0086006 muhar   
@@ -3922,7 +4022,7 @@
 0076274 vedan   
 0057965 zajes   
 0019235 sidop   
-0000281 bit     
+0000281 bit     PVx xはあんなだ あの
 0000136 mip     
 4139125 sebokaf 
 0000576 xes     
@@ -4779,7 +4879,7 @@
 0018972 dejip   
 0078137 nibin   
 0015472 devup   
-0000232 tit     
+0000232 tit     PVx xはどれもだ どれも 全ての いかなる 如何なる
 0082521 peser   
 9683039 liiqal  
 0070198 qopn    
@@ -6008,7 +6108,7 @@
 0020712 tant    
 0024259 jutot   
 0789464 vavoqe  
-0000847 nor     
+0000847 nor     PN 彼 彼女 そいつ その人
 5447508 ruzefos 
 0035324 feguk   
 4730727 nengef  
@@ -6119,7 +6219,7 @@
 0055615 saxus   
 0044922 telof   
 0076051 buhan   
-0000073 ge      
+0000073 ge      PN これ
 0073565 zasin   
 0027673 gexet   
 0048412 tavif   
@@ -6732,7 +6832,7 @@
 0018251 budip   
 5007999 jojeus  
 0061117 napam   
-0000891 bor     
+0000891 bor     PN あいつ あの人
 0093672 demil   
 4048314 fagifuf 
 0047889 jiqef   
@@ -6764,7 +6864,7 @@
 0083971 belir   
 0042408 rufef   
 1597492 dovejup 
-0000237 nit     
+0000237 nit     PVx xはそんなだ その
 0013255 zutip   
 0088562 dazir   
 0093608 rumil   
