@@ -71,7 +71,7 @@
 0000524 fes     Vx xは多い
 0000052 du      
 0000720 en      
-0000287 cit     PVx xはどんなだ どの
+0000287 cit     
 0000842 tor     N 誰も 皆
 0000816 mar     N 度
 0000754 vun     A(u) uほど uくらい
@@ -557,7 +557,7 @@
 0052436 mifes   
 0056926 mejas   
 7757417 navezen 
-0000657 cum     どう
+0000657 cum     
 0062939 lilem   
 0088812 taqir   
 0040546 mosf    
@@ -2362,7 +2362,7 @@
 0036168 qabak   
 0098889 jiqil   
 0077346 mogen   
-0000077 ce      PN どれ
+0000077 ce      
 0063778 qenim   
 0005539 lizu    
 0050968 qals    
@@ -2925,7 +2925,7 @@
 0093016 mail    
 0008794 voci    
 1496415 savalop 
-0000288 qit     
+0000288 qit     PVx xはどんなだ どの
 0085357 cugur   
 3637238 ridegak 
 0082062 daer    
@@ -3064,7 +3064,7 @@
 0022322 teket   
 0034440 ofok    
 0044928 relof   
-0000898 qor     
+0000898 qor     PN 誰 どいつ どの人
 0007457 cuve    
 0075779 jecun   
 0009031 piho    
@@ -3259,7 +3259,7 @@
 0039595 zozok   
 0000293 got     
 0033343 kokik   
-0000897 cor     PN 誰 どいつ どの人
+0000897 cor     
 9533794 vonigul 
 0007542 toze    
 0086006 muhar   
@@ -5184,7 +5184,7 @@
 0038477 cevik   
 0097310 agel    
 0040927 nelf    
-0000658 qum     
+0000658 qum     PA どう
 0077623 kexen   
 0033863 garik   
 0006463 gava    
@@ -5398,7 +5398,7 @@
 0000571 bes     
 0021830 irat    
 0017319 lagep   
-0000078 qe      
+0000078 qe      PN どれ
 0071133 kipan   
 0042856 xuref   
 0093300 ukil    
