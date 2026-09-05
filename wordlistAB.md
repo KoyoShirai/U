@@ -1,22 +1,22 @@
 0000809 lur     ここからA PN 私
 0000795 zon     PN あなた
-0000075 ze      
+0000075 ze      A(u) uは自動詞のとき主語の、他動詞のとき目的語の補語 uと uに
 0000212 tat     Vx xはいる ある
 0000444 fof     Vxyz xはyをzと言う 扱う
 0000569 jas     Vx xは成る
 0000377 cek     N 物
 0000369 jak     N 年
-0000000 u       V(u)x xはuのだ
+0000000 u       N 無 ウ語
 0000148 rop     Vx xは来る
 0000072 de      
 0000827 ner     Vxyz xはyをzと思う
 0000512 tas     Vxyz xはyをzと見る 認識する
 0000999 jol     Vx xは行く
-0000210 at      A(u) uに uへ向かって
+0000210 at      
 0000566 xas     Vx xは可能だ
 0000101 pup     Vx xはこれだ
 0000521 pes     Vx xは良い
-0000977 cel     A(u) uという理由で uなので
+0000977 cel     A(u) 理由 uなので uゆえ
 0000694 vom     N 時
 0000437 nif     N 人
 0000396 xok     N 月
@@ -25,16 +25,16 @@
 0000419 laf     Vx xは複数だ x達
 0000208 rut     N 分
 0000818 rar     N 中
-0000394 vok     C または
+0000394 vok     SCT 選択 SまたはT
 0000941 pol     Vx xは着く
 0000586 xis     N 所
 0000375 zek     Vxyz xはyをzと考える
 0000448 rof     Vxy xはyを仕舞う
-0000790 hon     C しかし けれど
+0000790 hon     
 0000165 zap     N 場合
 0000366 xak     N 今
 0000231 pit     Vxy xはyを持つ
-0000070 he      
+0000070 he      A(u) 時間 uに
 0000412 taf     Vxyz xはyをzと分かる
 0000915 sal     N 日
 0000725 sen     Vx xは出る Vxy xはyを出す
@@ -43,13 +43,13 @@
 0000086 xi      Vxy xはyを取る 得る
 0000250 hut     N 性 性別 性質
 0000196 xop     N 訳 理由
-0000043 ko      
+0000043 ko      A(u) 動作の始点 uから uより
 0000303 kuk     N 問題
 0000770 hen     N 必要
-0000949 lol     A(u) uに対して
-0000016 ma      
+0000949 lol     uCv 順序対 (u, v)
+0000016 ma      A(u) 場所 uで
 0000484 vif     Vxy xはyを使う
-0000934 fil     A(u) uより
+0000934 fil     A(u) 比較 uより
 0000275 zet     Vxyz xはyをzと聞く
 0000132 tip     Vxy xはyをくれる 与える あげる
 0000861 bar     Vxyz xはyをzと知る
@@ -66,18 +66,18 @@
 0000779 jen     N 気
 0000595 zos     Vxy xはyを作る
 0000880 hir     N 関係
-0000985 zil     A(u) uと同じかuより u以上に
-0000740 on      
+0000985 zil     A(u) 比較 uと同じかuより u以上に
+0000740 on      N(S) 文章を名詞にする
 0000524 fes     Vx xは多い
-0000052 du      
+0000052 du      A(u) 手段 uで
 0000720 en      
 0000287 cit     N 方法
 0000842 tor     N 誰も 皆
 0000816 mar     N 度
-0000754 vun     A(u) uほど uくらい
+0000754 vun     A(u) 程度 分量 uほど uくらい
 0000543 kos     N 上
 0000578 qes     N 市
-0000318 rak     C と 及び
+0000318 rak     
 0000325 sek     N 社会
 0000775 zen     N 話
 0000708 run     N 手
@@ -94,7 +94,7 @@
 0000402 tuf     Vxy xはyと同じだ 等しい
 0000269 jat     Vxyz xはyをzと書く
 0000102 tup     Vx xは大きい
-0000557 cus     
+0000557 cus     A(u) 動作の途中 uを (トンネルを通る)
 0000364 vak     Vx xは高い
 0000568 qas     Vx xは掛かる Vxy xはyを掛ける コートを掛ける 迷惑を掛ける
 0000164 vap     ここまでA 
@@ -136,11 +136,11 @@
 8347084 vihefir N 電話
 0054982 dilos   Vx xは変わる
 0023891 borit   Vx xは過ぎる Vxy xはyを過ごす
-0030375 zekuk   
+0030375 zekuk   SCT 逆説 SしかしT けれど
 0076321 pegan   
-0000584 vis     
+0000584 vis     A(u) 共同の相手 uと 
 0013496 xofip   
-0011710 anap    
+0011710 anap    A(u) uまで
 0613933 kiliba  
 0002186 xipe    
 0083675 zemir   
@@ -152,8 +152,8 @@
 0031368 qakak   
 0072832 tiren   
 0039671 bexok   
-0095481 bivul   
-0022032 tiet    
+0095481 bivul   A(u) uがてら
+0022032 tiet    A(u) 限定 uばかり uだけ uのみ
 4778487 civicef N 調査 アンケート
 8971976 xelacor 
 2232951 buleket 
@@ -167,11 +167,11 @@
 0018588 qizip   
 0061062 daam    
 0067136 mibem   
-0000310 ak      
+0000310 ak      A(u) 動作の先 uへ uに
 0000613 kam     
 0049050 huhof   
 0027998 qojet   
-0000669 jam     
+0000669 jam     SCT SならばT
 0075033 kihun   
 0028617 naxit   
 0041476 xefaf   
@@ -183,7 +183,7 @@
 0029068 qahot   
 6309213 kadoim  
 8249400 uvofer  
-0000256 xut     
+0000256 xut     SCT SかつT
 5739721 pecoges 
 8228147 nobiter 
 0004926 melo    
@@ -203,9 +203,9 @@
 0005160 habu    
 3197102 tubelak 
 0094070 heol    
-0000546 mos     
+0000546 mos     N(S) 文章を名詞にする
 0049424 fevof   
-0000529 les     
+0000529 les     V(S) 文章を述語にする
 0043820 erif    
 0066465 zavam   
 0056043 kohas   
@@ -292,7 +292,7 @@
 0000602 tum     PA どうにも
 0010095 zoup    
 0039270 hedok   
-0000076 xe      
+0000076 xe      uCv uとv u及びv
 0098007 nhil    
 0076085 zihan   
 0067916 majem   
@@ -399,7 +399,7 @@
 0001492 dofa    
 0000403 kuf     
 0000712 tan     
-0000007 nu      
+0000007 nu      uCv uかc
 0074503 kson    
 0093541 posil   
 0000684 vim     
@@ -4120,7 +4120,7 @@
 0000633 kim     
 0000209 lut     
 0016284 vidap   
-0000010 a       
+0000010 a       V(u)x 属格 xはuのだ
 0012232 titep   
 0082905 sler    
 6724022 teodem  
@@ -5479,7 +5479,7 @@
 0000909 lul     
 0073724 fenin   
 0091421 pefal   
-0000200 ut      
+0000200 ut      V(S) 文章を述語にする
 0053243 kotis   
 0690761 banja   
 0000391 bok     
@@ -6932,7 +6932,7 @@
 0099941 pojol   
 0122553 guseta  
 0065038 rihum   
-0000040 o       
+0000040 o       動詞の前に置いて命令にする
 0099952 dujol   
 0013445 sofip   
 0051038 rias    
