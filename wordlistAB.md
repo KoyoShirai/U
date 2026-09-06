@@ -1670,7 +1670,7 @@
 0000166 xap     
 0081649 lomar   
 3362947 nolemik 
-0000340 ok      
+0000340 ok      Adj(S) 文章を形容詞にする
 5486919 lajaros 
 0021368 qakat   
 0000401 puf     
@@ -6263,7 +6263,7 @@
 0000365 zak     
 8391128 repalir 
 0652361 bakeza  
-0000542 tos     
+0000542 tos     Adj(S) 文章を形容詞にする
 0000107 nup     
 0029561 bazot   
 0033789 jinik   
