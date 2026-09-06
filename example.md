@@ -1,2 +1,2 @@
-彼は変わらせられたがるべきでなかったみたいだろうね。
-Dilozpadutakafasamant nor.
+彼は変わらせられたがらなかったそうだね。
+Dilozpadumafanxat no.
