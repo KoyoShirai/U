@@ -116,8 +116,9 @@ Los Sentence os S
 
 tos Sentence ok で文章を形容詞にする。
 内部の文章で名詞句、名詞節を省略した際の挙動は los on と同様。
-それに加えて、内部の文章 Sentence で動詞句、動詞節が自動詞で、かつ主語が省略されている際、
-N tos Sentence ok を N Sentence と省略して良い。
+それに加えて、内部の文章 Sentence において、動詞が連結しておらず、自動詞で、かつ主語が省略されて、副詞が無い場合、
+つまり Sentence が(助動詞と終助詞のついた)動詞ただ1つで構成される場合、
+N tos VAux...AuxPar ok を N VAux...AuxPar と省略して良い。
 
 fos Sentence os で文章を副詞にする。
 
