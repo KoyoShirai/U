@@ -2,15 +2,15 @@
 
 
 
-動詞
+動詞  
 
 全ての動詞は基本形だと自動詞で、末尾の子音を変化させることで他動詞になる。
-自動詞のとき V S
+自動詞のとき V S,
 他動詞のとき V S O
 
 動詞は連結させることができる。
 その際、連結している動詞の目的語や補語は全て共通する。
-連結している動詞がすべて自動詞のとき V ... V S
+連結している動詞がすべて自動詞のとき V ... V S,
 少なくとも1つが他動詞のとき V ... V S O
 
 
@@ -20,7 +20,7 @@
 tos Sentence ok で 文章を形容詞にする。
 形容詞は修飾する名詞のすぐ後につく。
 
-V ... V S Adj ... Adj
+V ... V S Adj ... Adj  
 V ... V S Adj ... Adj O Adj ... Adj
 
 
@@ -50,7 +50,7 @@ Par N で副詞句を作る。
 その N は連結している動詞の間で共通。
 副詞は文章の主語と目的語の後ろにつく。
 
-V ... V S Adj ... Adj Adv ... Adv
+V ... V S Adj ... Adj Adv ... Adv  
 V ... V S Adj ... Adj O Adj ... Adj Adv ... Adv
 
 
@@ -97,7 +97,7 @@ du は自動詞にも他動詞にもつけられる。自動詞なら最後の�
 pa が複数あり de が複数ある場合は de を省略しない。内側の de から順番にに内側の pa に対応させる
 tu, du に対する en も同様
 
-V ... VAux...AuxPar S Adj ... Adj Adv ... Adv
+V ... VAux...AuxPar S Adj ... Adj Adv ... Adv  
 V ... VAux...AuxPar S Adj ... Adj O Adj ... Adj Adv ... Adv
 
 
@@ -129,7 +129,7 @@ fos Sentence os で文章を副詞にする。
 
 文章の始めに I をつけて命令系にする。
 
-I V ... VAux...AuxPar S Adj ... Adj Adv ... Adv
+I V ... VAux...AuxPar S Adj ... Adj Adv ... Adv  
 I V ... VAux...AuxPar S Adj ... Adj O Adj ... Adj Adv ... Adv
 
 
