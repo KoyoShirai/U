@@ -79,10 +79,8 @@ p 質問
 t 確認
 l 独り言つ
 
-旧ルール
-V(ε|pa)(ε|tu|tuma|du|duma|mu|ma)(ε|ka)(ε|fa)(ε|sa)(ε|ra|ja)(nra|nja)*(ε|s|n|ns|xa|xas|xan)(ε|p|t|l)
+助動詞と終助詞は以下の正規表現で表される組み合わせが可能である
 
-現行ルール
 V((ε|ma)((pa|patu|padu|tu|du)ma)\*(ε|pa|patu|padu|tu|du)|pu|u)(ε|ka)(ε|fa)(ε|sa)(ε|ra|ja)(nra|nja)\*(ε|s|n|ns|xa|xas|xan)(ε|p|t|l)
 
 助動詞と終助詞が末尾についたことを分かりやすくするため、
