@@ -1,4 +1,4 @@
-0000809 lur     ここからA PN 私
+0000809 lur     ここからA PN 私 自分
 0000795 zon     PN あなた
 0000075 ze      A(u) uは自動詞のとき主語の、他動詞のとき目的語の補語 uと uに
 0000212 tat     Vi xはいる
@@ -6,13 +6,13 @@
 0000569 jas     Vi xは成る
 0000377 cek     N 物
 0000369 jak     N 年
-0000000 u       N 無 ウ語
+0000000 u       N 無 ウ
 0000148 rop     Vi xは来る
 0000072 de      A(u) 動詞が使役のとき、使役されるほう uにVさせる
 0000827 ner     Vt xはyを思う
 0000512 tas     Vt xはyを見る 認識する
 0000999 jol     Vi xは行く
-0000210 at      
+0000210 at      N 水
 0000566 xas     Vi xは可能だ
 0000101 pup     Vi xはこれだ
 0000521 pes     Vi xは良い
@@ -27,7 +27,7 @@
 0000818 rar     N 中
 0000394 vok     SCT 選択 SまたはT
 0000941 pol     Vi xは着く
-0000586 xis     N 所
+0000586 xis     N 所 地
 0000375 zek     Vt xはyを考える
 0000448 rof     Vt xはyを仕舞う
 0000790 hon     Vi xはある
@@ -72,7 +72,7 @@
 0000052 du      A(u) 手段 uで
 0000720 en      A(u) 動詞が受け身のとき、その動作の主 uに
 0000287 cit     N 方法
-0000842 tor     
+0000842 tor     Vt xはyを読む
 0000816 mar     N 度
 0000754 vun     A(u) 程度 分量 uほど uくらい
 0000543 kos     N 上
@@ -90,7 +90,7 @@
 0000835 sir     Vt xはyを受ける (治療を受ける)
 0000491 bof     N 次
 0000238 rit     N 生活
-0000889 jir     N 法
+0000889 jir     N 法 法律
 0000402 tuf     Vi xは同じだ 等しい
 0000269 jat     Vt xはyを書く
 0000102 tup     Vi xは大きい
@@ -104,7 +104,7 @@
 0000041 po      N 顔
 0072684 vimen   N 情報
 0022597 coset   N 意味
-0016795 zocap   N 図
+0016795 zocap   N 図 表
 0072210 aten    N 言葉
 2827683 gixedit N 国
 0057313 kages   Vi xは関する 関係する
@@ -112,7 +112,7 @@
 0002101 pupe    N 学校
 0065231 pidum   N 間
 0000045 so      Vi xは上がる Vt xはyを上げる
-3787800 uqeqek  N 会社 企業
+3787800 uqeqek  N 会社 企業 社
 0003396 xoki    N 仕事
 0074763 ganon   N 事業
 0084438 rifor   Vi xはyを頂く (xはyに上方向に届く)
@@ -134,197 +134,197 @@
 0069786 xicom   N 環境
 0072356 xuken   N 結果
 8347084 vihefir N 電話
-0054982 dilos   Vi xは変わる
+0054982 dilos   Vi xは変わる Vt xはyを変える
 0023891 borit   Vi xは過ぎる Vt xはyを過ごす
-0030375 zekuk   SCT 逆説 SしかしT けれど
-0076321 pegan   
+0030375 zekuk   SCT 逆説 SしかしT けれど ただ 唯
+0076321 pegan   A 又 また 再び
 0000584 vis     A(u) 共同の相手 uと 
-0013496 xofip   
+0013496 xofip   Vt xはyを感じる 名詞に変形して気持ち
 0011710 anap    A(u) 動作の終点 uまで
-0613933 kiliba  
-0002186 xipe    
-0083675 zemir   
-0003741 poni    
-0086922 tejar   
-0084749 lonor   
-0026850 huqat   
-0018914 fajip   
-0031368 qakak   
-0072832 tiren   
-0039671 bexok   
+0613933 kiliba  N 状況
+0002186 xipe    Vt xはyを呼ぶ
+0083675 zemir   Vi 強い
+0003741 poni    N 力
+0086922 tejar   Vt xはyを買う
+0084749 lonor   N 計画
+0026850 huqat   A まず 先に 最初に
+0018914 fajip   A すぐ 直ぐ
+0031368 qakak   Vi 悪い
+0072832 tiren   Vt xはyを続ける
+0039671 bexok   N 先生
 0095481 bivul   A(u) uがてら
 0022032 tiet    A(u) 限定 uばかり uだけ uのみ
 4778487 civicef N 調査 アンケート
-8971976 xelacor 
-2232951 buleket 
-0054310 akos    
-4841795 zonavif 
-0019771 becop   
-0070118 rapn    
-0009152 dubo    
-0093424 fefil   
-0041381 bikaf   
-0018588 qizip   
-0061062 daam    
-0067136 mibem   
+8971976 xelacor A とくに 特に 特別に
+2232951 buleket N 内容 中身
+0054310 akos    N 本 書 書籍
+4841795 zonavif N 写真
+0019771 becop   N 数 番号
+0070118 rapn    N 車
+0009152 dubo    Vi 少ない
+0093424 fefil   Vt xはyを示す
+0041381 bikaf   N 部分
+0018588 qizip   N 館 屋敷
+0061062 daam    Vi 長い
+0067136 mibem   N ページ 頁
 0000310 ak      A(u) 動作の方向 対象 uへ uに
-0000613 kam     
-0049050 huhof   
-0027998 qojet   
+0000613 kam     Vi 働く
+0049050 huhof   Vt xはyが好きだ 好む
+0027998 qojet   Vi 早い
 0000669 jam     SCT SならばT
-0075033 kihun   
-0028617 naxit   
-0041476 xefaf   
-2942348 rokevot 
-0061854 vuram   
-0044467 cafof   
-0087827 neqer   
-4273969 jalinef 
-0029068 qahot   
-6309213 kadoim  
-8249400 uvofer  
+0075033 kihun   A(u) uみたい uのよう uの様
+0028617 naxit   Vi 存在する
+0041476 xefaf   Vi 返る リターン
+2942348 rokevot Vi 発展する Vt xはyを開発する
+0061854 vuram   Vt xはyを切る
+0044467 cafof   N 基本 基礎
+0087827 neqer   N 規定 規則 ルール レギュレーション
+4273969 jalinef N 質問
+0029068 qahot   N 体 身 身体
+6309213 kadoim  N 項 式
+8249400 uvofer  Vt xはyを説明する
 0000256 xut     SCT SかつT
-5739721 pecoges 
-8228147 nobiter 
-0004926 melo    
-5430327 nekkos  
-0064406 mufom   
-0010863 garp    
-0029895 zoqot   
-0075398 qogun   
-0000655 zum     
-0087264 vader   
-1721902 tladep  
-0064074 veom    
-9689112 taboqal 
-0080934 filur   
-4422990 holetof 
-0000984 vil     
-0005160 habu    
-3197102 tubelak 
-0094070 heol    
+5739721 pecoges Vi 重要だ
+8228147 nobiter N 施設
+0004926 melo    N 頭
+5430327 nekkos  A 全て 全く 全然
+0064406 mufom   A ほとんど ほぼ
+0010863 garp    Vi 立つ
+0029895 zoqot   A(u) uなんて uなんか
+0075398 qogun   Vi 新しい
+0000655 zum     Vi 会話する Vt xはyを話す
+0087264 vader   N 地方 田舎
+1721902 tladep  A 一番 最も
+0064074 veom    Vt xはyを管理する
+9689112 taboqal N 機械
+0080934 filur   Vt xはyに参加する 加わる
+4422990 holetof N 最近
+0000984 vil     Vi 簡単だ 易い
+0005160 habu    N 口
+3197102 tubelak N 事件
+0094070 heol    N 形
 0000546 mos     N(S) 文章を名詞にする
-0049424 fevof   
-0000529 les     
-0043820 erif    
-0066465 zavam   
-0056043 kohas   
-0082894 vorer   
-0086232 tidar   
-0077817 naqen   
-0068663 gaxim   
-0015254 vudup   
-0057561 bazes   
-3659004 fuhozak 
-3361480 hifamik 
-1865833 kiquxip 
-0033434 fifik   
-2245454 vuvufet 
-0079074 vehon   
-2108148 robiat  
-0099886 xiqol   
-0051042 toas    
-0020933 kilt    
-0027170 hebet   
-0097886 xiqel   
-0020047 nout    
-9319311 pagopil 
-0028714 facit   
-0097045 sohel   
-0000264 vat     
-1464503 ksomop  
-2421224 fetatot 
-0024263 gatot   
-0095469 javul   
-1359967 cajosip 
-0057473 geves   
-0001068 qaa     
-0009493 govo    
-0335449 lovuki  
-0063104 fupim   
-0037051 buhek   
-2007090 hoheut  
-0052277 cetes   
-0023812 tarit   
-0025008 ruhut   
-0071052 duan    
-7439757 cucokon 
-3460683 gimmok  
-0000960 hal     
-0014467 cafop   
-0097935 sijel   
-0094478 qefol   
-0057846 moqes   
-9585016 mahuqul 
-9407745 soceol  
-3195437 nivulak 
-0078835 siqin   
-0044036 miof    
-0043534 fisif   
-0014171 bepop   
-0054397 cokos   
-0000806 mur     
-0008572 dezi    
-3557783 gicezuk 
-0027662 daxet   
-0015614 faxup   
-0082398 qoker   
-0049053 guhof   
-0025929 lejut   
-1279815 saqonep 
-0018348 rogip   
-0080028 reur    
-0017488 qivep   
-0016101 pubap   
-0000701 pun     
-0000525 ses     
-0037946 mojek   
-0089845 soqor   
-0024197 copot   
-0060638 rimum   
-0097305 sgel    
-9395186 xibulil 
-0066594 vozam   
-7753696 xomizen 
-0000201 put     
-0048834 fiqif   
-0073698 qomin   
+0049424 fevof   N 語 単語
+0000529 les     Vi 多い たくさんだ
+0043820 erif    N 国民 大衆 人々
+0066465 zavam   N 程度
+0056043 kohas   A もちろん 当然
+0082894 vorer   N 中心 真ん中
+0086232 tidar   A あまり あんまり 余り ～ない
+0077817 naqen   Nt xはyを求める xはyが欲しい
+0068663 gaxim   Vi 生きる
+0015254 vudup   N 文化 カルチャー
+0057561 bazes   Vt xはyを飲む
+3659004 fuhozak N 機関 組織 局
+3361480 hifamik A つまり 要は 要するに
+1865833 kiquxip Vt xはyを整備する 保守する メンテナンス
+0033434 fifik   A それぞれ
+2245454 vuvufet Vi 国際的だ
+0079074 vehon   Vi 若い
+2108148 robiat  N 額 値段 価格
+0099886 xiqol   Vt xはyを願う
+0051042 toas    N 目的 目標 ゴール
+0020933 kilt    N 姿 見た目
+0027170 hebet   Vt xはyを笑う
+0097886 xiqel   N 最初 先頭
+0020047 nout    N 部屋
+9319311 pagopil N 主義 主張 思想
+0028714 facit   Vt xはyを待つ
+0097045 sohel   Vi 従う
+0000264 vat     N 風
+1464503 ksomop  A すでに もう
+2421224 fetatot Vt xはyを評価する
+0024263 gatot   N 金
+0095469 javul   N 割合 率 比
+1359967 cajosip Vt xはyを認める
+0057473 geves   Vi 乗る
+0001068 qaa     N 下
+0009493 govo    N 全体
+0335449 lovuki  N 自由
+0063104 fupim   Vi 生まれる Vt xはyを生む 生産する
+0037051 buhek   A(u) u以外に
+2007090 hoheut  Vt xはyを答える
+0052277 cetes   N 最後 最後尾
+0023812 tarit   Vi 終わる
+0025008 ruhut   Vi 開く Vt xはyを開ける
+0071052 duan    N 側 方
+7439757 cucokon N 家族
+3460683 gimmok  A 初めて 最初に
+0000960 hal     Vt xはyを含む
+0014467 cafop   Vi 響く Vt xはyを影響を与える
+0097935 sijel   N 量 数 多さ
+0094478 qefol   Vi 会う
+0057846 moqes   A とても とっても すごく たくさん
+9585016 mahuqul N 機能 能力
+9407745 soceol  STC 追加の情報 さらに 更に 加えて
+3195437 nivulak Vt xはyを理解する
+0078835 siqin   Vi 戻る 帰る
+0044036 miof    N 母
+0043534 fisif   N 対策
+0014171 bepop   N 都市 都会
+0054397 cokos   Vt xはyを相談する
+0000806 mur     A(u) 比較 u未満に
+0008572 dezi    N 例
+3557783 gicezuk N 健康
+0027662 daxet   Vi 対応する
+0015614 faxup   N 区 区画 ゾーン
+0082398 qoker   Vi 歩く
+0049053 guhof   Vi 当たる Vt xはyを当てる
+0025929 lejut   Vi 運動する
+1279815 saqonep N 個人
+0018348 rogip   N 正午
+0080028 reur    A(u) 比較 u以下に
+0017488 qivep   N 夜
+0016101 pubap   N 自然 天然
+0000701 pun     N 町
+0000525 ses     Vi 向かう 直面する Vt xはyを向く
+0037946 mojek   Vi 安全だ
+0089845 soqor   N 期間 期 間
+0024197 copot   Vt xはyを図る 意図する
+0060638 rimum   N 政治
+0097305 sgel    N 元 起源
+9395186 xibulil N 障害 障害物 邪魔
+0066594 vozam   A かなり 結構 まあまあ
+7753696 xomizen Vi 非常だ 尋常でない
+0000201 put     N 山
+0048834 fiqif   Vt xはyを確かめる 確認する チェックする
+0073698 qomin   N 気 意識
 0000602 tum     PA どうにも
-0010095 zoup    
-0039270 hedok   
+0010095 zoup    N 花
+0039270 hedok   A もっと
 0000076 xe      uCv uとv u及びv
-0098007 nhil    
-0076085 zihan   
-0067916 majem   
-0000982 dil     
-0090195 zopul   
-0050580 hisus   
-0078892 doqin   
-0084111 papor   
-0000227 net     
-0012762 danep   
-0052374 vekes   
-0023466 xafit   
-0082232 titer   
-5108291 bodias  
-0082494 vofer   
-0056767 cacas   
-0037518 razek   
-0078413 kavin   
-0045375 zeguf   
-0082745 soner   
-0012180 hipep   
-1246785 zicafep 
-0021978 qelat   
-0000769 jan     
-0088472 devir   
-7936025 sehagon 
-0089891 boqor   
-0099274 vedol   
-0046388 qigaf   
-0072496 xofen   
-0036755 zucak   
-0082311 paker   
+0098007 nhil    名前 名
+0076085 zihan   Vi 結婚する
+0067916 majem   N サービス
+0000982 dil     Per A 強調 こそ
+0090195 zopul   Vt xはyを経営する 営む 切り盛りする
+0050580 hisus   N 父
+0078892 doqin   N 面 表面
+0084111 papor   Vi 深い
+0000227 net     N 色
+0012762 danep   N システム 仕組み からくり
+0052374 vekes   N 商品
+0023466 xafit   N 店 お店 ストア ショップ
+0082232 titer   N 作品 アート
+5108291 bodias  Vi 死ぬ
+0082494 vofer   Vt xはyを進める 推進する 応援する
+0056767 cacas   N 音
+0037518 razek   N 行動 挙動 アクション
+0078413 kavin   Vi 残る Vt xはyを残す
+0045375 zeguf   Vi 決まる Vt xはyを決める 決定する
+0082745 soner   N 歴史
+0012180 hipep   N 駅
+1246785 zicafep N 事務
+0021978 qelat   N テレビ TV
+0000769 jan     N 回
+0088472 devir   N メール 手紙 電子メール
+7936025 sehagon Vi 自動だ
+0089891 boqor   Vi 様々だ 多様性に富む
+0099274 vedol   Vi 特別だ
+0046388 qigaf   Vt xはyを手伝う 協力する
+0072496 xofen   N 病院
+0036755 zucak   Vt xはyを消費する
+0082311 paker   N 報告 メッセージ レポート
 0004360 hako    
 0088639 lixir   
 0000884 vir     
@@ -6998,20 +6998,20 @@
 0080192 dopur   
 0000450 huf     
 0097768 qacel   ここまでB
-4765321 peguxef ここから旧C1 ここからB2
-0019487 civop   
-4047024 fehefuf 
-0013913 kalip   
-7831511 pasagin 
-6989525 sezoqom 
-7501439 lifahun 
-0079555 zuzon   
-0008158 qubi    
-0041271 betaf   
-0016773 gecap   
-0026720 ecat    
-0039633 kixok   
-0284782 dinore  
+4765321 peguxef ここから旧C1 ここからB2 N 教育
+0019487 civop   N 技術
+4047024 fehefuf N 大学
+0013913 kalip   N 保険
+7831511 pasagin N 世代
+6989525 sezoqom N 状態
+7501439 lifahun Vi 普通だ 一般的だ
+0079555 zuzon   A 例えば
+0008158 qubi    N 政府 当局
+0041271 betaf   N 制度
+0016773 gecap   N 対象
+0026720 ecat    N 産業
+0039633 kixok   N 課 部署
+0284782 dinore  N 大臣
 0054731 pinos   
 3346629 lexafik 
 0029601 puxot   
