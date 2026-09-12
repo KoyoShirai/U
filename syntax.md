@@ -41,7 +41,7 @@ ogup
 名詞の末尾に n(n を付けた結果末尾に子音が2つ連続し、それが final consonant clusters に含まれないなら更に末尾に u を付ける)を付けると動詞になる。
 子音を変化させないと自動詞になり、変化させると他動詞になる。
 
-ex.
+ex.  
 rokevot 発展  
 rokevod 開発  
 rokevodn 発展する  
@@ -52,7 +52,7 @@ rokevodca 開発する
 動詞は連結させることができる。
 その際、子音を変化させてスペース無しで連結し、連結している動詞の目的語や補語は全て共通する。
 
-ex.
+ex.  
 zos 作成  
 zozca 作る  
 tarit 終了  
@@ -74,24 +74,24 @@ V...V S Adj ... Adj O Adj ... Adj
 
 助詞
 
-ze      A(u) uは自動詞のとき主語の、他動詞のとき目的語の補語 uと uに
-ko      A(u) 動作の始点 uから uより
-cus     A(u) 動作の途中 uを (トンネルを通る)
-ak      A(u) 動作の方向 対象 uへ uに
-anap    A(u) 動作の終点 uまで
-tiet    A(u) 限定 uばかり uだけ uのみ
-vun     A(u) 程度 分量 uほど uくらい
-fil     A(u) 比較 uより
-zil     A(u) 比較 uと同じかuより u以上に
-he      A(u) 時間 uに
-ma      A(u) 場所 uで
-de      A(u) 動詞が使役のとき、使役されるほう uにVさせる
-en      A(u) 動詞が受け身のとき、その動作の主 uに
-du      A(u) 手段 uで
-cel     A(u) 理由 uなので uゆえ
-bivul   A(u) uがてら
-vis     A(u) 共同の相手 uと
-fos Sentence os で文章を副詞にする。
+ze      A(u) uは自動詞のとき主語の、他動詞のとき目的語の補語 uと uに  
+ko      A(u) 動作の始点 uから uより  
+cus     A(u) 動作の途中 uを (トンネルを通る)  
+ak      A(u) 動作の方向 対象 uへ uに  
+anap    A(u) 動作の終点 uまで  
+tiet    A(u) 限定 uばかり uだけ uのみ  
+vun     A(u) 程度 分量 uほど uくらい  
+fil     A(u) 比較 uより  
+zil     A(u) 比較 uと同じかuより u以上に  
+he      A(u) 時間 uに  
+ma      A(u) 場所 uで  
+de      A(u) 動詞が使役のとき、使役されるほう uにVさせる  
+en      A(u) 動詞が受け身のとき、その動作の主 uに  
+du      A(u) 手段 uで  
+cel     A(u) 理由 uなので uゆえ  
+bivul   A(u) uがてら  
+vis     A(u) 共同の相手 uと  
+fos Sentence os で文章を副詞にする。  
 などなど
 
 Par N で副詞句を作る。
@@ -107,25 +107,25 @@ V...V S Adj ... Adj O Adj ... Adj Adv ... Adv
 
 助動詞
 
-pa 使役 Vさせる
-tu 直接受け身 Vられる
-du 関節、被害の受け身 Vられる
-mu 可能 Vられる
-ma 希望 Vたがる
-ka した方が良い して当然 Vるべき
-fa 否定 Vない
-sa 様態 Vそうだ
-ra 推定 Vらしい
-ja 比喩 Vみたい
-xa 伝聞 Vそうだ
-n 過去 Vた
-s 推量 Vよう
+pa 使役 Vさせる  
+tu 直接受け身 Vられる  
+du 関節、被害の受け身 Vられる  
+mu 可能 Vられる  
+ma 希望 Vたがる  
+ka した方が良い して当然 Vるべき  
+fa 否定 Vない  
+sa 様態 Vそうだ  
+ra 推定 Vらしい  
+ja 比喩 Vみたい  
+xa 伝聞 Vそうだ  
+n 過去 Vた  
+s 推量 Vよう  
 
 終助詞
 
-p 質問
-t 確認
-l 独り言つ
+p 質問  
+t 確認  
+l 独り言つ  
 
 助動詞と終助詞は以下の正規表現で表される組み合わせが可能である
 
